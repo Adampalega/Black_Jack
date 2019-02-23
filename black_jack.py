@@ -296,17 +296,3 @@ while True:
 
             
 #####################################################################################################
-#talia = Deck()
-
-#talia.shuffle_deck()
-
-#print(talia.show_card(51))
-
-#print(talia.deck[51].value,talia.deck[51].suit)
-
-#print(value_for_black_jack(talia.deck[51].value))
-
-#print(player.money)
-
-####################################################################################################
-
